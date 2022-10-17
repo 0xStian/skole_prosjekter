@@ -1,7 +1,7 @@
 import os, ctypes, sys, time
 
-task_name = "task name"
-time_between_removal = 600
+task_name = "task name" # name of task
+time_between_removal = 600 # time to sleep between removal
 
 
 def is_admin(): # checks if admin, if not puts up prompt asking for admin rights
