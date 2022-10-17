@@ -1,5 +1,5 @@
-# small-personal-projects
-just random projects im making in my free time
+personal-projects
+random projects
 
 
 remove_scheduler_task.py
