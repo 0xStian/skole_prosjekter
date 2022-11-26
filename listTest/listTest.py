@@ -43,9 +43,7 @@ def reverse_list(sorted_list):
 
 
 def slice_list(sorted_list):
-    length = len(sorted_list)
-    middle_index = length//2
-    sliced_list = sorted_list[:middle_index]
+    sliced_list = sorted_list[:5]
     print(f"Sliced list {sliced_list}")
     append_new_user()
     
