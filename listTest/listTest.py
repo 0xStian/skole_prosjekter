@@ -18,16 +18,12 @@ user_list = []
 def append_users():
     for x in range(10):
         user_list.append(f"{input('name: ')}")
-        print (user_list)
     sort_list()
 
 
 def sort_list():
     sorted_list = sorted(user_list)
-    print("---------------")
-    print(sorted_list)
-    print("[*] Sorted list")
-    print("---------------")
+    print(f"Sorted list {sorted_list}")
     search_user(sorted_list)
     
     
@@ -42,10 +38,7 @@ def search_user(sorted_list):
       
 def reverse_list(sorted_list):
     sorted_list.reverse()
-    print("---------------")
-    print(sorted_list)
-    print("[*] Reversed list")
-    print("---------------")
+    print(f"reversed list {sorted_list}")
     slice_list(sorted_list)
 
 
@@ -53,10 +46,7 @@ def slice_list(sorted_list):
     length = len(sorted_list)
     middle_index = length//2
     sliced_list = sorted_list[:middle_index]
-    print("---------------")
-    print(sliced_list)
-    print("[*] Sliced list")
-    print("---------------")
+    print(f"Sliced list {sliced_list}")
     append_new_user()
     
     
@@ -66,11 +56,7 @@ def append_new_user():
 
 
 def display_original_list():
-    print("[*] displaying original list")
-    print("---------------")
-    print(user_list)
-    print("---------------")
-    print("done")
+    print(f"Original list with new user {user_list}")
 
 
 append_users()
