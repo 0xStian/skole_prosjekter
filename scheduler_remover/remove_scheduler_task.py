@@ -13,7 +13,7 @@ def is_admin(): # admin rights needed for scheduler task removal
     
 if is_admin():
     while True:
-            os.system(f"SchTasks /DELETE /F /TN {task_name}")
-            time.sleep(time_between_removal)
+        os.system(f"SchTasks /DELETE /F /TN {task_name}")
+        time.sleep(time_between_removal)
 else:
     ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, " ".join(sys.argv), None, 1)
