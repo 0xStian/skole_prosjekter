@@ -23,6 +23,7 @@ def calculate(choice, type, pizza_sum):
         return pizza_sum
     else:
         print(f"{choice} is not in {type}. Start over!")
+        quit()
         
 def topping():
     temp_sum = 0
