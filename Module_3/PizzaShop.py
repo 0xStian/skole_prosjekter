@@ -14,39 +14,34 @@ pizza_base = {"thick" : 10, "thin" : 5}
 pizza_size = {"small" : 30, "medium" : 40, "large" : 50}
 pizza_sauce = { "tomato" : 5, "barbecue" : 10}
 pizza_topping = {"cheese" : 5, "mushrooms" : 3, "avocado" : 7, "pineapple" : 5, "bacon" : 7, "chicken" : 7, "fish" : 6}
-
 pizza_sum = 0
 
-pizza_base_choice = str(input("pizza_base (thick, thin): ").lower())
-if pizza_base_choice in pizza_base:
-    print(f"you chose ({pizza_base_choice})")
-    pizza_sum += pizza_base[pizza_base_choice]
+def calculate(choice, type, pizza_sum):
+    if choice in type:
+        print(f"you chose ({choice})")
+        pizza_sum += type[choice]
+        return pizza_sum
+    else:
+        print(f"{choice} is not in {type}. Start over!")
+        
+def topping():
+    temp_sum = 0
+    pizza_topping_choice = []
+    print("# Choose multiple toppings, if you are done or dont want toppings, type 'done'")
+    while True:
+        temporary_choice = input("pizza_topping (cheese, mushrooms, avocado, pineapple, bacon, chicken, fish): ").lower()
+        if temporary_choice != "done":
+            pizza_topping_choice.append(temporary_choice)
+            print(f"you chose {pizza_topping_choice}")
+        elif temporary_choice == "done":
+            for x in pizza_topping_choice:
+                if x in pizza_topping:
+                    temp_sum += pizza_topping[x]
+            return temp_sum
 
-pizza_size_choice = str(input("pizza_size (small, medium, large): ").lower())
-if pizza_size_choice in pizza_size:
-    print(f"you chose ({pizza_size_choice})")
-    pizza_sum += pizza_size[pizza_size_choice]
+base_sum = calculate(input("pizza_base (thick, thin): ").lower(), pizza_base, pizza_sum)
+size_sum = calculate(input("pizza_size (small, medium, large): ").lower(), pizza_size, pizza_sum)
+sauce_sum = calculate(input("pizza_sauce (tomato, barbecue): ").lower(), pizza_sauce, pizza_sum)
+topping_sum = topping()
 
-pizza_sauce_choice = str(input("pizza_sauce (tomato, barbecue): ").lower())
-if pizza_sauce_choice in pizza_sauce:
-    print(f"you chose ({pizza_sauce_choice})")
-    pizza_sum += pizza_sauce[pizza_sauce_choice]
-
-
-
-print("# Choose multiple toppings, if you dont want toppings type 'none'. if you're done type 'done'")
-
-pizza_topping_choice = []
-while True:
-    temporary_choice = input("pizza_topping (cheese, mushrooms, avocado, pineapple, bacon, chicken, fish): ").lower()
-    if temporary_choice != "done":
-        pizza_topping_choice.append(temporary_choice)
-    elif temporary_choice == "done" or "none":
-        for x in pizza_topping_choice:
-            print(x)
-            if x in pizza_topping:
-                pizza_sum += pizza_topping[x]
-        print(f"Sum of pizza = {pizza_sum}kr")
-        quit()
-
-    
+print(f"Pizza sum = {base_sum + size_sum + sauce_sum + topping_sum}")
