@@ -11,9 +11,3 @@ splitted = user_input.split(character_to_split)
 print(*splitted)
 recombine_character = input("character to replace splitted: ")
 print(*splitted, sep=recombine_character)
-
-
-
-
-
-# print(user_input.replace(character_to_split, f"{character_to_split} "))
