@@ -1,6 +1,6 @@
 # Skole Prosjekter 
 
-## MISC
+## <a href="https://github.com/0xStian/skole_prosjekter/tree/main/MISC"><b>Misc</b></a>
   * fibonacci.py
   * pokepy.py
   * scheduler_remover
@@ -8,14 +8,14 @@
   * SHA256HashCracker.py
   * timecalc.py
 
-## <a href="https://github.com/0xStian/skole_prosjekter/tree/main/Module_1"><b>Module_1</b></a>
+## <a href="https://github.com/0xStian/skole_prosjekter/tree/main/Module_1"><b>Module 1</b></a>
   * listTest.py
   * MyPhonebook.py
   * PizzaShop.py
   * setTest.py
 
-## Module_2
-### Lesson_1
+## <a href="https://github.com/0xStian/skole_prosjekter/tree/main/Module_2"><b>Module 2</b></a>
+### <a href="https://github.com/0xStian/skole_prosjekter/tree/main/Lesson_1"><b>Lesson 1</b></a>
   * CalculateTotal.py
   * PostalCodes.py
   * PrintPerfect.py
