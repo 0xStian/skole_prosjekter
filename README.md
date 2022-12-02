@@ -1,11 +1,11 @@
 # skole_prosjekter
 
-'''
-├── MISC
-│   ├── Fibonacci sequence
-│   │   └── fibonacci.py
-│   ├── Pokepy
-│   │   └── pokepy.py
+
+MISC
+    - Fibonacci sequence
+        - fibonacci.py
+    - Pokepy
+        - pokepy.py
 │   ├── scheduler_remover
 │   │   └── remove_scheduler_task.py
 │   ├── sha256cracker
@@ -35,4 +35,3 @@
         ├── SplitAndJoin.py
         ├── String_splitting.py
         └── underline_string.py
-        '''
