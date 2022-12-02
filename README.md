@@ -7,9 +7,8 @@
   * remove_scheduler_task.py
   * SHA256HashCracker.py
   * timecalc.py
-<li><a href="https://github.com/0xStian/skole_prosjekter/tree/main/Module_1"><b>Module_1</b></a></li>
 
-## Module_1
+## <a href="https://github.com/0xStian/skole_prosjekter/tree/main/Module_1"><b>Module_1</b></a>
   * listTest.py
   * MyPhonebook.py
   * PizzaShop.py
