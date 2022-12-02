@@ -20,16 +20,16 @@
   * PostalCodes.py
   * PrintPerfect.py
   * SalesCalculator.py
-### Lesson_2
+### <a href="https://github.com/0xStian/skole_prosjekter/tree/main/Lesson_2"><b>Lesson 2</b></a>
   * CalculateAreaOfShape.py
   * MetricConverter.py
   * SummingMachine.py
-### Lesson_3
+### <a href="https://github.com/0xStian/skole_prosjekter/tree/main/Lesson_3"><b>Lesson 3</b></a>
   * GenerateLetter.py
   * HandleExceptions.py
-### Lesson_4
+### <a href="https://github.com/0xStian/skole_prosjekter/tree/main/Lesson_4"><b>Lesson 4</b></a>
   * mymodules.py
-### Module_2 Extra
+### <a href="https://github.com/0xStian/skole_prosjekter/tree/main/Module_2 extra"><b>Module 2 | Extra</b></a>
   * change_delimiter.py
   * change_word_in_string.py
   * editor.py
