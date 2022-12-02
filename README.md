@@ -1,3 +1,4 @@
+```diff
 # Skole Prosjekter 
 
 ## MISC
@@ -37,3 +38,4 @@
   * SplitAndJoin.py
   * String_splitting.py
   * underline_string.py
+```
