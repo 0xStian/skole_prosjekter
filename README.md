@@ -1,6 +1,6 @@
 # skole_prosjekter
 
-
+'''
 ├── MISC
 │   ├── Fibonacci sequence
 │   │   └── fibonacci.py
@@ -35,3 +35,4 @@
         ├── SplitAndJoin.py
         ├── String_splitting.py
         └── underline_string.py
+        '''
