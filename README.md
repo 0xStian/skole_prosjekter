@@ -1,5 +1,6 @@
 ```diff
-# Skole Prosjekter 
+-# Skole Prosjekter 
+```
 
 ## MISC
   * fibonacci.py
@@ -38,4 +39,4 @@
   * SplitAndJoin.py
   * String_splitting.py
   * underline_string.py
-```
+
