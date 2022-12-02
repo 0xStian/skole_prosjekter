@@ -1,6 +1,4 @@
-```diff
--# Skole Prosjekter 
-```
+# Skole Prosjekter 
 
 ## MISC
   * fibonacci.py
@@ -9,6 +7,7 @@
   * remove_scheduler_task.py
   * SHA256HashCracker.py
   * timecalc.py
+<li><a href="github.com/0xStian/skole_prosjekter/tree/main/Module_1"><b>Module_1</b></a></li>
 
 ## Module_1
   * listTest.py
