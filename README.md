@@ -1,6 +1,6 @@
 # skole_prosjekter
 
-MISC
+##MISC
   * fibonacci.py
   * pokepy.py
   * scheduler_remover
@@ -8,13 +8,13 @@ MISC
   * SHA256HashCracker.py
   * timecalc.py
 
-Module_1
+##Module_1
   * listTest.py
   * MyPhonebook.py
   * PizzaShop.py
   * setTest.py
 
-Module_2
+##Module_2
   * CalculateTotal.py
   * PostalCodes.py
   * PrintPerfect.py
