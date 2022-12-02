@@ -29,7 +29,7 @@
   * HandleExceptions.py
 ### <a href="https://github.com/0xStian/skole_prosjekter/tree/main/Lesson_4"><b>Lesson 4</b></a>
   * mymodules.py
-### <a href="https://github.com/0xStian/skole_prosjekter/tree/main/Module_2 extra"><b>Module 2 | Extra</b></a>
+### <a href="https://github.com/0xStian/skole_prosjekter/tree/main/Module_2_extra"><b>Module 2 | Extra</b></a>
   * change_delimiter.py
   * change_word_in_string.py
   * editor.py
