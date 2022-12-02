@@ -27,6 +27,8 @@
 ### Lesson_3
   * GenerateLetter.py
   * HandleExceptions.py
+### Lesson_4
+  * mymodules.py
 ### Module_2 Extra
   * change_delimiter.py
   * change_word_in_string.py
