@@ -1,4 +1,4 @@
-<mark style="background-color: #FFFF00"># skole_prosjekter</mark>
+# Skole Prosjekter 
 
 ## MISC
   * fibonacci.py
