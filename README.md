@@ -1,7 +1,7 @@
 # skole_prosjekter
 
-fibonacci.py
-pokepy.py
+  * fibonacci.py
+  * pokepy.py
 scheduler_remover
 remove_scheduler_task.py
 SHA256HashCracker.py
