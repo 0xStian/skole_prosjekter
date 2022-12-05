@@ -45,4 +45,6 @@
 
 ## <a href="https://github.com/0xStian/skole_prosjekter/tree/main/Module_3"><b>Module 3</b></a>
 ### <a href="https://github.com/0xStian/skole_prosjekter/tree/main/Module_3/Lesson_1"><b>Lesson 1</b></a>
+  * CalculateVolume.py
   * PizzaShop.py
+  * TimeCalculation.py
