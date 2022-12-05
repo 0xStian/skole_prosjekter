@@ -1,12 +1,12 @@
-"""
-1. Define a list.
-2. Request 10 names of friends from the user and save them in the list.
-3. Sort the list.
-4. Reverse the list.
-5. Ask the user for one more name.
-6. Append the name to the end of the original list.
-7. Display the contents of the original list.
-"""
+
+# 1. Define a list.
+# 2. Request 10 names of friends from the user and save them in the list.
+# 3. Sort the list.
+# 4. Reverse the list.
+# 5. Ask the user for one more name.
+# 6. Append the name to the end of the original list.
+# 7. Display the contents of the original list.
+
 
 user_list = []
 for x in range(10):
