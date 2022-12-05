@@ -10,4 +10,7 @@ character_to_split = input("character to split: ")
 splitted = user_input.split(character_to_split)
 print(*splitted)
 recombine_character = input("character to replace splitted: ")
-print(*splitted, sep=recombine_character)
+print(recombine_character.join(splitted))
+
+### alternative ###
+#print(*splitted, sep=recombine_character)
