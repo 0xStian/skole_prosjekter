@@ -1,0 +1,18 @@
+import turtle as t
+
+t.pensize(20)
+t.speed(10)
+t.color("red")
+t.right(135)
+t.forward(50)
+t.right(90)
+t.forward(100)
+t.right(45)
+t.forward(150)
+t.right(135)
+t.forward(200)
+t.left(135)
+t.forward(150)
+t.left(90)
+t.forward(60)
+t.exitonclick()
