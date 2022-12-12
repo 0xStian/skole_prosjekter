@@ -1,7 +1,7 @@
 # Skole Prosjekter 
 
 ## <a href="https://github.com/0xStian/skole_prosjekter/tree/main/MISC"><b>Misc</b></a>
-  * hashCracker.py
+  ###### hashCracker
   * fibonacci.py
   * pokepy.py
   * scheduler_remover
