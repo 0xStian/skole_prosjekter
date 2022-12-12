@@ -1,7 +1,6 @@
 # Skole Prosjekter 
 
 ## <a href="https://github.com/0xStian/skole_prosjekter/tree/main/MISC"><b>Misc</b></a>
-  ###### hashCracker
   * fibonacci.py
   * pokepy.py
   * scheduler_remover
@@ -9,6 +8,9 @@
   * SHA256HashCracker.py
   * timecalc.py
   * draw_noroff_logo.py
+  ### <a href="https://github.com/0xStian/skole_prosjekter/tree/main/MISC/Hash_Cracker"><b>Hash_Cracker</b></a>
+  * hash_cracker.py
+  * hashes.txt
 
 
 ## <a href="https://github.com/0xStian/skole_prosjekter/tree/main/Module_1"><b>Module 1</b></a>
