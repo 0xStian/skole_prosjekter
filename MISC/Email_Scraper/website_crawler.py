@@ -39,4 +39,4 @@ def find_mails(websites):
 link_scanner('https://www.aftenbladet.no', websites)
 
 # to do
-# now it finds websites on in the html of specified url and scan those for emails but to find more emails we can scan those websites again for more and more websites instead of stopping on the first ones and scan emails
+#it finds websites on in the html of specified url and scan those for emails but to find more emails we can scan those websites again for more and more websites instead of stopping on the first ones and scan emails
