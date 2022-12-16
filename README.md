@@ -6,9 +6,10 @@
   ### <a href="https://github.com/0xStian/skole_prosjekter/tree/main/MISC/Hash_Cracker"><b>Hash_Cracker</b></a>
   * hash_cracker.py
   ### <a href="https://github.com/0xStian/skole_prosjekter/tree/main/MISC/Shell"><b>Shell</b></a>
-    * packer.py
-    * reciever.py
-    * sender.py 
+  * packer.py
+  * reciever.py
+  * sender.py 
+  
   * fibonacci.py
   * pokepy.py
   * scheduler_remover
