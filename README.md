@@ -7,9 +7,8 @@
   * hash_cracker.py
   ### <a href="https://github.com/0xStian/skole_prosjekter/tree/main/MISC/Shell"><b>Shell</b></a>
     * packer.py
-      * reciever.py
-    * sender.py
-
+    * reciever.py
+    * sender.py 
   * fibonacci.py
   * pokepy.py
   * scheduler_remover
