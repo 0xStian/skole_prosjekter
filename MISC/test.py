@@ -1,5 +1,5 @@
 import requests
-api_key = "api"
+api_key = "api_key"
 url = "https://www.vegvesen.no/ws/no/vegvesen/kjoretoy/felles/datautlevering/enkeltoppslag/kjoretoydata?kjennemerke="
 kjennemerke = input("Skriv inn kjennemerke: ")
 endpoint = f"{url}{kjennemerke}"
