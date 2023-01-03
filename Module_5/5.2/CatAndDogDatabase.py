@@ -8,15 +8,19 @@ def dog(dog_name):
     dog_data = dog_response.json()
     if dog_data != []:
         info = dog_data[0]
+        id = dog_data[0]["id"]
         name = info["name"]
         weight = info["weight"]["metric"]
         height = info["height"]["metric"]
         bred_for = info["bred_for"]
         life_span = info["life_span"]
         temperament = info["temperament"]
-        image_url = requests.get(f"https://api.thedogapi.com/v1/images/search?breed_ids={id}")
-        image = image_url.json()[0]["url"]
-        os.popen(f"start {image}")
+        try:
+            image_url = requests.get(f"https://api.thedogapi.com/v1/images/search?breed_ids={id}")
+            image = image_url.json()[0]["url"]
+            os.popen(f"start {image}")
+        except:
+            print("No image found.")
         return f"\nName: {name}\nWeight: {weight}\nHeight: {height}\nBred for: {bred_for}\nLife span: {life_span}\nTemperament: {temperament}\n"
     else:
         return "No dog found."
@@ -36,9 +40,12 @@ def cat(cat_name):
         description = info["description"]
         indoor = info["indoor"]
         wikipedia_url = info["wikipedia_url"]
-        image_url = requests.get(f"https://api.thecatapi.com/v1/images/search?breed_ids={id}")
-        image = image_url.json()[0]["url"]
-        os.popen(f"start {image}")
+        try:
+            image_url = requests.get(f"https://api.thecatapi.com/v1/images/search?breed_ids={id}")
+            image = image_url.json()[0]["url"]
+            os.popen(f"start {image}")
+        except:
+            print("No image found.")
         return f"\nName: {name}\nWeight: {weight}\nTemperament: {temperament}\nOrigin: {origin}\nDescription: {description}\nIndoor: {indoor}\nWiki: {wikipedia_url}\n"
     else:
         return "No cat found."
