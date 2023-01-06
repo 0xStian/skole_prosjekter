@@ -1,9 +1,10 @@
 import nmap3
 import os
-from termcolor import colored, cprint
+from termcolor import colored
+import json
 nmap = nmap3.Nmap()
 
-ip_adress = "192.168.0.112" #input("Enter IP adress: ")
+ip_adress = "172.24.6.53" #input("Enter IP adress: ")
 
 def logo():
     print(colored("                      __                ", "magenta"))
@@ -21,15 +22,16 @@ def print_ports(ip_adress):
     print(colored("="*55, "black"))
     for x in range(len(results[ip_adress]["ports"])):
         ports = results[ip_adress]["ports"][x]
+        hostname = results[ip_adress]["hostname"]
         protocol = ports['protocol']
         port = ports['portid']
         state = ports['state']
         service = ports['service']['name']
         fullip = f"{ip_adress}:{port}"
         if state == "open":
-            print(colored(f"[+] {state.ljust(10)} {fullip.ljust(1)}      {service.center(20)}     ", "magenta"))
+            print(colored(f"[+] {state}\t|  {fullip}\t|   {service}", "magenta"))
         elif state == "closed":
-            print(colored(f"[-] {state.ljust(10)} {fullip.ljust(1)}      {service.center(20)}     ", "black"))
+            print(colored(f"[-] {state}\t|  {fullip}\t|   {service}", "black"))
     print(colored("="*55, "black"))
     input(colored("\nPress enter to continue...", "black"))
     menu()
@@ -42,13 +44,14 @@ def print_open_ports(ip_adress):
     os.system("cls");logo()
     print(colored("="*55, "black"))
     for x in range(len(results[ip_adress]["ports"])):
+        hostname = results[ip_adress]["hostname"]
         ports = results[ip_adress]["ports"][x]
         protocol = ports['protocol']
         port = ports['portid']
         state = ports['state']
         service = ports['service']['name']
         if state == "open":
-            print(colored(f"[+] {state}   | {ip_adress}:{port} | {service}", "magenta"))
+            print(colored(f"[+] {state}   | {ip_adress}:{port} | {service}  | {hostname}", "magenta"))
     print(colored("="*55, "black"))
     input(colored("\nPress enter to continue...", "black"))
     menu()
