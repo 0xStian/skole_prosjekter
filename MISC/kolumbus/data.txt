@@ -1,9 +1,12 @@
 
-[3]Forus via Stavanger  |	Active: True
-============================================================
-Speed: 47 km/h
-Bus_Coordinates: 58.902719000, 5.700219000
-............................................................
-Next platform: Forus nord
-Platform_coordinates: 58.905230000, 5.697150000
-============================================================
+Hommersaak kai --> [21]Sandnes via Riskafeltet-Maudland |	Active: True
+================================================================================
+Speed:      			35 km/h
+Current Location:		15,  Eskemyrveien
+Bus Coordinates			(58.920822800,5.841127200)
+Heading:    			South East
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Next platform:   		Flatabergveien
+Platform_coordinates:	58.920560000, 5.842410000
+Delay:   				207 min
+================================================================================

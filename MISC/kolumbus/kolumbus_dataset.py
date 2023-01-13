@@ -18,7 +18,7 @@ def get_bus_data():
         get_bus_data()
 
 def append_to_file(cords):
-    with open("dataset.txt", "a") as f:
+    with open("dataset_sandnes_hommersaak.txt", "a") as f:
         f.writelines(f"{cords}\n")
 
 def save_bus_data(bus_data):
@@ -28,7 +28,7 @@ def save_bus_data(bus_data):
         bus_coordinates = f"{bus['latitude']:.9f}, {bus['longitude']:.9f}"
         try: next_platform_coordinates = f"{bus['next_platform']['latitude']:.9f}, {bus['next_platform']['longitude']:.9f}"
         except: next_platform_coordinates = "Not Found"
-        if destination == "Stavanger" and line_name == "8":
+        if destination == "Sandnes via Riskafeltet-Maudland" and line_name == "21":
             append_to_file(f"{bus['latitude']:.9f},{bus['longitude']:.9f}")
             
             
@@ -36,4 +36,4 @@ def save_bus_data(bus_data):
 while True:
     data = get_bus_data()
     save_bus_data(data)
-    time.sleep(2)
+    time.sleep(1.2)

@@ -1,0 +1,178 @@
+Size,Latitude,Longitude,Destination
+3,59.0974481421106,5.7074632102587035,Stavanger Via Randaberg
+3,58.9949127,5.650805,Rennesoy Via Randaberg
+3,58.9052894,5.6985115,Stavanger Via Sus
+3,58.9034738,5.7148583,Godeset Via Sus
+3,58.8508558,5.734811,Sandnes Via Stavanger-Smeaheia
+3,58.9374417,5.7432953,Sandnes Via Stavanger-Smeaheia
+3,58.8219777,5.7164832,Sandnes Via Sandved
+3,58.961704,5.6126987,Sandnes Via Stavanger-Smeaheia
+3,58.994615,5.7261926,Hundvaag Vest/Ost
+3,58.894412,5.7026192,Sundelia Via Stavanger
+3,58.8563098,5.7323447,Sandnes Via Varatun
+3,58.939602,5.6881648,Stavanger Via Uis
+3,58.9531561,5.6710685,Risavika Via Varatun-Stavanger
+3,58.9385905,5.5741702,Risavika Via Smeaheia-Stavanger
+3,58.9692845,5.7059855,Stokka
+3,58.9346567,5.7409587,Forus Via Stavanger
+3,58.9668598,5.7333988,Godeset Via Sus
+3,58.9051762,5.6978285,Viste Hageby Via Stavanger
+3,58.9404193218708,5.745723548628743,Forus Via Stavanger
+3,58.9787523,5.6155617,Viste Hageby Via Stavanger
+3,58.8514326,5.7367986,Stavanger Via Uis-Sus
+3,58.9337808,5.740292,Risavika Via Varatun-Stavanger
+3,58.9683673,5.5968127,Forus Via Stavanger
+3,59.123935,5.73646,Rennesoy
+3,59.09319288318401,5.706043808782307,Rennesoy
+3,58.9614012,5.7156165,Stavanger Via Uis
+3,58.8993905,5.7026865,Sandnes Via Sus-Uis
+3,58.8652437,5.7593087,Aasveien Via Sandvika
+3,58.9907823,5.6749523,Stavanger
+3,58.9780184,5.7014805,Stavanger
+3,58.9766965,5.746067,Hundvaag Ost/Vest
+3,58.9959874,5.6574715,Stavanger
+3,58.9644679,5.7346348,Sundelia Via Stavanger
+3,58.8335905,5.7297418,Ganddal Via Sus
+3,58.9338,5.7029685,Stavanger Via Uis
+3,58.9545753,5.6937753,Sundelia Via Stavanger
+3,58.8651942,5.7363198,Sandnes Via Varatun
+3,58.951582,5.7253715,Sola Via Sus
+3,58.9778724,5.7027259,Stavanger Via Goa
+3,58.9226241,5.7238756,Stavanger Via Sus
+3,58.9348717,5.5925598,Tananger
+3,59.0023092,5.7195782,Stavanger
+3,58.9954022,5.6134697,Randaberg Via Uis
+3,58.9819022,5.6907042,Vardenes
+3,58.9666803,5.7345865,Stavanger Via Sus
+3,58.9647347,5.7344832,Stavanger Via Sus
+3,58.9609943,5.7544052,Hundvaag
+3,58.9418335,5.6823525,Sandnes Via Uis
+3,58.9549628,5.73809,Jaattaavaagen Via Sus
+3,58.9332633,5.7030163,Stavanger Via Uis-Sus
+3,58.9573433,5.7402387,Stavanger Via Uis-Sus
+3,58.965175,5.73452,Stavanger Via Sus
+3,58.9673487,5.7317343,Stavanger
+3,58.9669535,5.7333642,Sandnes Via Uis
+3,58.8768695,5.7251417,Stokka Via Uis
+3,58.8878856,5.7291053,Stavanger Via Uis-Sus
+3,58.9083616,5.7288114,Sandnes Via Varatun
+3,58.9895153,5.7322338,Stavanger
+3,58.9333773,5.739938,Viste Hageby Via Stavanger
+3,58.9011997,5.7010793,Sandnes Via Sus-Uis
+3,58.9074172,5.7304358,Sandnes Via Stavanger-Varatun
+3,58.9389077,5.6457747,Madlasandnes
+3,58.970714,5.7355467,Madlakrossen Via Sus-Tjensvoll
+3,58.9494368,5.6966453,Stokka Via Uis
+3,59.009645,5.6511653,Randaberg
+3,58.9856638,5.6295678,Stavanger Via Goa
+3,58.9494998,5.6998348,Madlakrossen Via Sus-Tjensvoll
+3,58.8816817,5.6281355,Sandnes
+3,58.8329238,5.7288482,Sandnes Via Hove
+3,58.9433728,5.6967277,Stavanger Via Madlamark-Sus
+3,58.9753882,5.6909812,Grodem
+3,58.9711815,5.7443005,Madlakrossen Via Sus-Tjensvoll
+3,58.8323176,5.7665673,Skaarlia
+3,58.9465135,5.6808742,Rosenli Via Madlamark-Sus
+3,58.8762177,5.7249138,Grodem
+3,58.8514769,5.7361829,Ganddal Via Sandved
+3,58.8683212,5.7425287,Stavanger Via Uis
+3,58.9301463,5.6996738,Stavanger Via Uis
+3,58.8174843,5.7427645,Bogafjell
+3,58.8869982,5.6690765,Stavanger Lufthavn
+3,58.9018785,5.7391973,Sandnes Via Uis
+3,58.8801837,5.7262297,Sandnes
+3,58.9507888,5.7214157,Godeset Via Sus
+3,58.9575098,5.7400942,Rosenli Via Tjensvoll-Sus
+3,58.8379482,5.7416943,Bogafjell
+3,58.951581286205624,5.736573326018188,Madlakrossen Via Sus-Madlamark
+3,58.9691322,5.750261,Rosenli Via Madlamark-Sus
+3,58.8513045,5.7370375,Bogafjell
+3,58.8876959,5.6530788,Sandnes Via Stavanger Lufthavn
+3,58.961696,5.7171178,Grodem
+3,58.8253407,5.7565392,Sandnes
+3,58.9212763,5.7101615,Hinna Via Sus
+3,58.8257893,5.755608,Sandnes
+3,58.917335,5.6047923,Tananger Via Stavanger Lufthavn
+3,58.9457122,5.579581,Sandnes Via Stavanger Lufthavn
+3,58.8451673,5.7428555,Skaarlia
+3,58.8904558,5.7157473,Tananger Via Stavanger Lufthavn
+3,58.9624385,5.7217238,Risavika Via Smeaheia-Stavanger
+3,58.9538254,5.6839073,Viste Hageby Via Stavanger
+3,58.9047562,5.737472,Viste Hageby Via Stavanger
+3,58.9377689,5.7435605,Forus Via Stavanger
+3,58.9609879,5.6284827,Sundelia Via Stavanger
+3,58.9523128,5.6667795,Forus Via Stavanger
+3,58.9630817,5.7251473,Viste Hageby Via Stavanger
+3,58.9213683,5.7243048,Sundelia Via Stavanger
+3,58.8912677,5.74085,Risavika Via Smeaheia-Stavanger
+3,58.9170133,5.5980273,Risavika Via Varatun-Stavanger
+3,58.9517876,5.6614518,Sandnes Via Stavanger-Varatun
+3,58.9517422,5.6600615,Forus Via Stavanger
+3,58.9941268,5.7348248,Ormoy
+3,58.8602252,5.7439265,Hommersaak Via Sandnes-Maudland-Riskafeltet
+3,58.7730202,5.8761055,Sandnes
+3,58.8437938,5.7375987,Sandnes
+3,58.4534912,6.0023426,Ostebrod
+3,58.7666902,5.8622153,Aalgaard
+3,58.7367882,5.6854927,Bryne
+3,58.891864,5.7083496,Aalgaard Via Forus
+3,58.8069418,5.6902463,Verdalen Via Sus-Forus-Kleppekrossen
+3,58.6815395,5.9865584,Hauge I Dalane
+3,58.8514252,5.7350668,Sandnes
+3,58.3785239,6.1434979,Hauge I Dalane
+3,58.8607472,5.7926677,Hommersaak Via Maudland-Riskafeltet
+3,58.9204072,5.8590623,Hommersaak Via Sandnes-Maudland-Riskafeltet
+3,58.9049561,5.8506159,Sandnes
+3,58.8386125,5.7234116,Bryne
+3,58.7834483,5.7244527,Kvernaland
+3,59.03091436268292,5.801623623560801,Tau
+3,59.0470317,5.9243942,Solbakk Bussterminal
+3,59.03228170020725,5.806309281743538,Jorpeland
+3,59.0246135,6.0440605,Jorpeland
+3,59.0365167,5.9354492,Tau
+3,59.0214318,6.0447387,Jorpeland
+3,59.0247932,5.9761098,Stavanger
+3,58.9695276,5.7481374,Stavanger
+3,59.0176215,6.043467,Jorpeland
+3,59.0366152,5.93521,Jorpeland
+3,59.108398,6.1836223,Hjelmeland Via Fister
+3,58.7473561,5.631506,Sandnes
+3,59.5675742,6.2750895,Olen Via Ropeid
+3,59.4559713,6.3845447,Sand
+3,59.4894982,5.9716807,Sauda Via Ropeid
+3,59.4055251,5.3340421,Amanda Via Haugesund
+3,59.3959025,5.3003162,Amanda Via Haugesund
+3,59.4122134,5.2895729,Amanda Via Haugesund
+3,59.4144735,5.2667903,Bleikemyr Via Haugesund
+3,59.3980707,5.3020365,Bleikemyr Via Haugesund
+3,59.3933076,5.3291393,Amanda Via Haugesund
+3,59.4156413,5.3056188,Vormedal Via Haugesund
+3,59.3795462,5.3064205,Vormedal Via Haugesund
+3,59.4329798,5.2911505,Amanda Via Haugesund
+3,59.4218613,5.4767761,Grinde Via Amanda
+3,59.4853717,5.7271647,Sandeid Via Raunes
+3,59.2395525,5.2007092,Haugesund Via Veavaagen-Kopervik
+3,59.4123107,5.2689482,Haugesund Via Veavaagen-Kopervik
+3,59.3924357,5.293223,Haugesund Via Kopervik
+3,59.275228,5.2232939,Skudeneshavn
+3,59.319992,5.2907522,Haugesund Via Kopervik
+3,59.3794187,5.3061757,Vikjaa
+3,59.2695347,5.2007447,Skudeneshavn Via Kopervik-Veavaagen
+3,59.3051276,5.2874653,Aakrehamn Via Kopervik
+3,59.406484,5.3659133,Norheim Via Amanda
+3,59.4005491,5.6645853,Nedstrand
+3,59.6306985,5.5855708,Olen Via Vikebygd
+3,59.4598452,5.5732992,Haugesund Via Nes
+3,59.3799887,5.30727,Aakrehamn Via Kopervik
+3,58.9686205,5.7353058,Stavanger
+3,58.8073718,5.9857177,Gilja Via Ravndal
+3,58.9176568,5.6992127,Randaberg Via Uis
+3,58.9696612,5.7315587,Kiellandshagen
+3,58.9429453,5.6819372,Sola Via Uis
+3,58.8994173,5.7220035,Stavanger Via Sus
+3,58.8549918,5.7664537,Sandnes
+3,58.9814235,5.710585,Randaberg
+3,58.9939543,5.6791207,Vardenes
+3,58.8074842,5.7779932,Aalgaard
+3,58.8654647,5.7364967,Risavika Via Varatun-Stavanger
+3,58.9683023,5.7351912,Stavanger
