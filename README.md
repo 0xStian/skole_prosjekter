@@ -2,6 +2,7 @@
 
 ## <a href="https://github.com/0xStian/skole_prosjekter/tree/main/MISC"><b>Misc</b></a>
   * Kolumbus
+  * vegvesen_info.py
   * fibonacci.py
   * pokepy.py
   * scheduler_remover
